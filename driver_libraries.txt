@@ -1,0 +1,2 @@
+postgres: psycopg2
+mysql: pymysql
